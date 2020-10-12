@@ -1,0 +1,10 @@
+{
+  "name": "visitor_supervisor",
+  "repository": "https://github.com/victorgreen098/visitor_supervisor",
+  "stack": "container",
+  "env": {
+    "MEGA_EM": {},
+    "MEGA_PW": {},
+    "TINI_SUBREAPER": {"value": 1}
+  }
+}
